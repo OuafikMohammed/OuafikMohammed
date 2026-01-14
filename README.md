@@ -1,7 +1,5 @@
 # Hi — I'm Mohammed Ouafik 👋
 
-![Profile Image](https://github.com/OuafikMohammed.png)
-
 **Mohammed Ouafik**  
 Student Web Developer — I build modern, maintainable, and scalable web applications.
 
