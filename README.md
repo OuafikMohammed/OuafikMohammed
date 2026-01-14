@@ -49,9 +49,9 @@ Here are some of my best projects — concise descriptions, tech stacks, and lin
 ---
 
 ## GitHub Stats
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=OuafikMohammed&show_icons=true&theme=default&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OuafikMohammed&layout=compact)
+![GitHub followers](https://img.shields.io/github/followers/OuafikMohammed?style=social)
+![GitHub stars](https://img.shields.io/github/stars/OuafikMohammed?style=social)
+![GitHub forks](https://img.shields.io/github/forks/OuafikMohammed?style=social)
 
 ---
 
